@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YousicianCLI", "YousicianCLI\YousicianCLI.csproj", "{F64FC4DA-71A7-418D-AFCC-C6A711714AD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{97F3E439-BF0E-429C-8E80-C92053602049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64FC4DA-71A7-418D-AFCC-C6A711714AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64FC4DA-71A7-418D-AFCC-C6A711714AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64FC4DA-71A7-418D-AFCC-C6A711714AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64FC4DA-71A7-418D-AFCC-C6A711714AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F3E439-BF0E-429C-8E80-C92053602049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F3E439-BF0E-429C-8E80-C92053602049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F3E439-BF0E-429C-8E80-C92053602049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F3E439-BF0E-429C-8E80-C92053602049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

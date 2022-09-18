@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7SGy4yb39wbsahVS8isGfZhycHEpctXeTfmeL1vsvpzSoL2DdcxBC3uhjBd+z54u476iRkwXVJk0WY0wu/rAA==",
+  "success": true,
+  "projectFilePath": "/Volumes/DATA/Argon/NewAssignment/YSCLI/YousicianCLI/YousicianCLI.csproj",
+  "expectedPackageFiles": [
+    "/Users/muaaz/.nuget/packages/system.reactive/4.4.1/system.reactive.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
